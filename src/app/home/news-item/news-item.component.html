@@ -1,0 +1,6 @@
+<ion-item button (click)="open(item.url)" *ngIf="item">
+  <ion-label>
+    <h2>{{item.title}}</h2>
+    <p>{{item.score}}점 by {{item.by}} / {{news.hours}}시간전 / {{item.descendants}}개의 코멘트</p>
+  </ion-label>
+</ion-item>
