@@ -1,7 +1,7 @@
 # ionic4-hacker-news
 
 > ionic4를 이용한 간단한 해커뉴스 클라이언트입니다.
-> <https://narx.github.io/ionic4-hacker-news/>
+> <https://paperspoon.github.io/ionic4-hacker-news/>
 
 ## Build Setup
 
